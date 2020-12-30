@@ -8,7 +8,7 @@ Run the below command: <br />
 **mvn spring-boot:run**
 
 ### APIs:
-## Calaculator apis:
+### Calaculator apis:
 
 ##### Addition api :<br />
 method : GET <br />
